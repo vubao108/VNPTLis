@@ -1,0 +1,40 @@
+2021-11-24 13:45:04 data nhận: MSH|^~\&|MEK-9100|Laboratory|LIS|Laboratory|20211124133659||OUL^R22^OUL_R22|ID202111241336590773|P|2.5|||NE|AL||~ISO IR87|||LAB-29^IHE
+PID|||""|||||U
+SPM|1|""&&""||""|||||||P^Patient specimen^HL70369
+SAC|||8655
+OBR|1|""||CBC+DIFF
+ORC|SC|""|||CM
+OBX|1|NM|WBC^White Blood Cell Count^99UNK||10.53|10*3/uL^thousand per microliter^UCUM|4.00 - 9.00|H^High^HL70078|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|2|NM|RBC^Red Blood Cell Count^99UNK||3.98|10*6/uL^million per microliter^UCUM|3.76 - 5.70|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|3|NM|HGB^Hemoglobin^99UNK||123.1|g/L^gram per liter^UCUM|120.0 - 180.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|4|NM|HCT^Hematocrit^99UNK||37.1|%^percent^UCUM|33.5 - 52.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|5|NM|MCV^Mean Corpuscular Volume^99UNK||93.2|fL^femtoliter^UCUM|80.0 - 100.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|6|NM|MCH^Mean Corpuscular Hemoglobin^99UNK||30.9|pg^picogram^UCUM|28.0 - 32.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|7|NM|MCHC^Mean Corpuscular Hemoglobin Concentration^99UNK||332|g/L^gram per liter^UCUM|310 - 350|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|8|NM|RDW-CV^Red Blood Cell Distribution Width in CV^99UNK||12.3|%^percent^UCUM|11.6 - 14.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|9|NM|RDW-SD^Red Blood Cell Distribution Width in SD^99UNK||45.9|fL^femtoliter^UCUM|42.8 - 51.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|10|NM|PLT^Platelet Count^99UNK||368.9|10*3/uL^thousand per microliter^UCUM|150.0 - 350.0|H^High^HL70078|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|11|NM|PCT^Plateletcrit^99UNK||0.29|%^percent^UCUM|0.16 - 0.33|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|12|NM|MPV^Mean Platelet Volume^99UNK||7.8|fL^femtoliter^UCUM|7.0 - 11.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|13|NM|PDW^Platelet Distribution Width^99UNK||17.1|%^percent^UCUM|15.5 - 18.9|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|14|NM|P-LCR^Platelet Large Cell Ratio^99UNK||32.8|%^percent^UCUM|20.0 - 58.0|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|15|NM|NE%^Neutrophil Percent^99UNK||59.26|%^percent^UCUM|28.00 - 78.00|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|16|NM|LY%^Lymphocyte Percent^99UNK||27.77|%^percent^UCUM|17.00 - 57.00|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|17|NM|MO%^Monocyte Percent^99UNK||8.20|%^percent^UCUM|0.00 - 10.00|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|18|NM|EO%^Eosinophil Percent^99UNK||3.58|%^percent^UCUM|0.00 - 10.00|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|19|NM|BA%^Basophil Percent^99UNK||1.19|%^percent^UCUM|0.00 - 2.00|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|20|NM|NE^Neutrophil Count^99UNK||6.24|10*3/uL^thousand per microliter^UCUM|1.10 - 7.00|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|21|NM|LY^Lymphocyte Count^99UNK||2.92|10*3/uL^thousand per microliter^UCUM|0.70 - 5.10|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|22|NM|MO^Monocyte Count^99UNK||0.86|10*3/uL^thousand per microliter^UCUM|0.00 - 0.90|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|23|NM|EO^Eosinophil Count^99UNK||0.38|10*3/uL^thousand per microliter^UCUM|0.00 - 0.90|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|24|NM|BA^Basophil Count^99UNK||0.13|10*3/uL^thousand per microliter^UCUM|0.00 - 0.20|""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|25|NM|@P-LCC^Platelet Large Cell Count(Only research use)^99UNK||121.0|10*3/uL^thousand per microliter^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|26|NM|@MentzerIndex^MentzerIndex(Only research use)^99UNK||23|||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|27|NM|@RDWI^Red blood cell Distribution Width Index(Only research use)^99UNK||283|||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|28|NM|@IG%^Immature Granulocyte Percent(Only research use)^99UNK||0.25|%^percent^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|29|NM|@IG^Immature Granulocyte Count(Only research use)^99UNK||0.03|10*3/uL^thousand per microliter^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|30|NM|@Band%^Band cell Percent(Only research use)^99UNK||0.37|%^percent^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|31|NM|@Band^Band cell Count(Only research use)^99UNK||0.04|10*3/uL^thousand per microliter^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|32|NM|@Seg%^Segmented neutrophils Percent(Only research use)^99UNK||58.89|%^percent^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+OBX|33|NM|@Seg^Segmented neutrophils Count(Only research use)^99UNK||6.20|10*3/uL^thousand per microliter^UCUM||""|||F|||||Administrator||MEK-9100~00706|20211123083601||||||||||RSLT
+

@@ -1,0 +1,258 @@
+2021-11-25 09:10:50 Drew3-PAC[M]: [STX]7228  00149   
+
+2021-11-25 09:10:50 Drew3-PAC[M]: [STX]7228  00149   
+
+2021-11-25 09:10:50 getKetQuaMay
+2021-11-25 09:10:50 executeScript
+2021-11-25 09:10:50 data nhận: 7228  00149   
+2021-11-25 09:10:50 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%027228%20%2000149%20%20%20');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+    var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:10:50 Drew3-PAC[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:10:51 Drew3-PAC[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:10:51 getKetQuaMay
+2021-11-25 09:10:51 executeScript
+2021-11-25 09:10:51 data nhận: 7228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c
+2021-11-25 09:10:51 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%027228%20%2000149%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2025%2F11%2F202109%3A00%3A27%20AM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%207.7%20%202.6%20%2033.7%200.4%20%204.6%20%204.7%20%2061.7%203.54%2080%20%20%200.26073.4%2022.6%20308%20%2014.0%20556%20%206.7%20%200.00414.0%2011STANDARD%20%205c%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+    var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:12:57 getKetQuaMay
+2021-11-25 09:12:57 executeScript
+2021-11-25 09:12:57 data nhận: 
+7228  00149   
+2021-11-25 09:12:57 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%0A%027228%20%2000149%20%20%20');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:12:57 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\n\u00027228  00149   ","ketqua":0}}
+2021-11-25 09:12:57 executed data: [{maXNGui=0;
+7228  00149   ;1}]
+2021-11-25 09:12:57 Insert db
+2021-11-25 09:12:57 200
+2021-11-25 09:12:58 detele file
+2021-11-25 09:12:58 delete file thành công C:\LAB\logs\temp\42020\7_Drew3-PAC\25112021\25112021091050.txt
+2021-11-25 09:12:58 getKetQuaMay
+2021-11-25 09:12:58 executeScript
+2021-11-25 09:12:58 data nhận: 
+7228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c
+2021-11-25 09:12:58 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%0A%027228%20%2000149%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2025%2F11%2F202109%3A00%3A27%20AM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%207.7%20%202.6%20%2033.7%200.4%20%204.6%20%204.7%20%2061.7%203.54%2080%20%20%200.26073.4%2022.6%20308%20%2014.0%20556%20%206.7%20%200.00414.0%2011STANDARD%20%205c%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:12:58 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\n\u00027228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c\u0003","ketqua":0}}
+2021-11-25 09:12:58 executed data: [{maXNGui=0;
+7228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c;1}]
+2021-11-25 09:12:58 Insert db
+2021-11-25 09:12:58 200
+2021-11-25 09:12:58 detele file
+2021-11-25 09:12:58 delete file thành công C:\LAB\logs\temp\42020\7_Drew3-PAC\25112021\25112021091051.txt
+2021-11-25 09:13:14 Drew3-PAC[M]: [STX]7228  00149   
+
+2021-11-25 09:13:14 Drew3-PAC[M]: [STX]7228  00149   
+
+2021-11-25 09:13:14 Drew3-PAC[M]: [STX]7228  00149   
+
+2021-11-25 09:13:14 Drew3-PAC[M]: [STX]7228  00149   
+
+2021-11-25 09:13:15 getKetQuaMay
+2021-11-25 09:13:15 executeScript
+2021-11-25 09:13:15 data nhận: 7228  00149   
+2021-11-25 09:13:15 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%027228%20%2000149%20%20%20');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:13:15 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u00027228  00149   ","ketqua":0}}
+2021-11-25 09:13:15 executed data: [{maXNGui=0;7228  00149   ;1}]
+2021-11-25 09:13:15 Insert db
+2021-11-25 09:13:15 200
+2021-11-25 09:13:15 Tính bằng script 3
+2021-11-25 09:13:15 Drew3-PAC[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:13:15 Drew3-PAC[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:13:15 Drew3-PAC[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:13:15 Drew3-PAC[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:13:15 getKetQuaMay
+2021-11-25 09:13:15 executeScript
+2021-11-25 09:13:15 data nhận:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c
+2021-11-25 09:13:15 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2025%2F11%2F202109%3A00%3A27%20AM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%207.7%20%202.6%20%2033.7%200.4%20%204.6%20%204.7%20%2061.7%203.54%2080%20%20%200.26073.4%2022.6%20308%20%2014.0%20556%20%206.7%20%200.00414.0%2011STANDARD%20%205c%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:13:15 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"                                                    25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c\u0003","ketqua":0}}
+2021-11-25 09:13:15 executed data: [{maXNGui=0;                                                    25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c;1}]
+2021-11-25 09:13:15 Insert db
+2021-11-25 09:13:15 200
+2021-11-25 09:13:15 Tính bằng script 3
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:20 hth_phcn_Drew3[M]: [STX]7228  00149   
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 hth_phcn_Drew3[M]:                                                     25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c[ETX]
+
+2021-11-25 09:21:21 getKetQuaMay
+2021-11-25 09:21:21 executeScript
+2021-11-25 09:21:21 data nhận: 7228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c
+2021-11-25 09:21:21 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%027228%20%2000149%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2025%2F11%2F202109%3A00%3A27%20AM%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201%20%201%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%207.7%20%202.6%20%2033.7%200.4%20%204.6%20%204.7%20%2061.7%203.54%2080%20%20%200.26073.4%2022.6%20308%20%2014.0%20556%20%206.7%20%200.00414.0%2011STANDARD%20%205c%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:21:21 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u00027228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c\u0003","ketqua":0}}
+2021-11-25 09:21:21 executed data: [{maXNGui=0;7228  00149                                                       25/11/202109:00:27 AM                            1  1                          7.7  2.6  33.7 0.4  4.6  4.7  61.7 3.54 80   0.26073.4 22.6 308  14.0 556  6.7  0.00414.0 11STANDARD  5c;1}]
+2021-11-25 09:21:21 Insert db
+2021-11-25 09:21:21 200
+2021-11-25 09:21:21 Tính bằng script 1

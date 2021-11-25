@@ -1,0 +1,70 @@
+2021-11-25 09:43:01 hth_phcn_Clintek status +[M]: 4146,
+
+2021-11-25 09:43:01 hth_phcn_Clintek status +[M]: 4146,
+
+2021-11-25 09:43:01 getKetQuaMay
+2021-11-25 09:43:01 executeScript
+2021-11-25 09:43:01 data nhận: 4146,
+2021-11-25 09:43:01 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('4146%2C');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:43:02 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"4146,","ketqua":0}}
+2021-11-25 09:43:02 executed data: [{maXNGui=0;4146,;1}]
+2021-11-25 09:43:02 Insert db
+2021-11-25 09:43:03 200
+2021-11-25 09:43:04 Tính bằng script 3
+2021-11-25 09:43:04 hth_phcn_Clintek status +[M]: 11-25-2021,10:41AM,,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.030,,BLO,Negative,,pH ,6.0,,PRO,Negative,,URO,0.2 E.U./dL,,NIT,Negative,,LEU,Negative,,,,,,,,,,,,High SG may cause falsely lowered LEU results,
+
+2021-11-25 09:43:04 hth_phcn_Clintek status +[M]: 11-25-2021,10:41AM,,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.030,,BLO,Negative,,pH ,6.0,,PRO,Negative,,URO,0.2 E.U./dL,,NIT,Negative,,LEU,Negative,,,,,,,,,,,,High SG may cause falsely lowered LEU results,
+
+2021-11-25 09:43:04 getKetQuaMay
+2021-11-25 09:43:04 executeScript
+2021-11-25 09:43:04 data nhận: 11-25-2021,10:41AM,,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.030,,BLO,Negative,,pH ,6.0,,PRO,Negative,,URO,0.2 E.U./dL,,NIT,Negative,,LEU,Negative,,,,,,,,,,,,High SG may cause falsely lowered LEU results,
+
+2021-11-25 09:43:04 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('11-25-2021%2C10%3A41AM%2C%2C%2C%2C%2C%2C%2CMultistix%2010%20SG%2CNot%20Entered%2CNot%20Entered%2CGLU%2CNegative%2C%2CBIL%2CNegative%2C%2CKET%2CNegative%2C%2CSG%20%2C%3E%3D1.030%2C%2CBLO%2CNegative%2C%2CpH%20%2C6.0%2C%2CPRO%2CNegative%2C%2CURO%2C0.2%20E.U.%2FdL%2C%2CNIT%2CNegative%2C%2CLEU%2CNegative%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2CHigh%20SG%20may%20cause%20falsely%20lowered%20LEU%20results%2C%0D');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+    //var mydata = data.replace(/^\s*[\r\n]/gm, '');
+    if(mydata.indexOf("\r")!=-1)
+    {
+        var rows = mydata.split("\r");
+    }else  {var rows = mydata.split("\n"); }
+
+   // var stt = parseInt(rows[1].trim()).toFixed(0);
+    var chiso = [['WBC',2], ['RBC',10], ['HGB',11], ['HCT',12], ['MCV',13], ['MCH',14], ['MCHC',15], ['PLT',17], ['LY%',3], ['LY',6], ['MO%',4], ['MO',7], ['GR%',5], ['GR',8], ['RDW',16], ['PCT',18], ['MPV',19], ['PDW',20]];
+        
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+       
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-25 09:43:04 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"11-25-2021,10:41AM,,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.030,,BLO,Negative,,pH ,6.0,,PRO,Negative,,URO,0.2 E.U./dL,,NIT,Negative,,LEU,Negative,,,,,,,,,,,,High SG may cause falsely lowered LEU results,\r","ketqua":0}}
+2021-11-25 09:43:04 executed data: [{maXNGui=0;11-25-2021,10:41AM,,,,,,,Multistix 10 SG,Not Entered,Not Entered,GLU,Negative,,BIL,Negative,,KET,Negative,,SG ,>=1.030,,BLO,Negative,,pH ,6.0,,PRO,Negative,,URO,0.2 E.U./dL,,NIT,Negative,,LEU,Negative,,,,,,,,,,,,High SG may cause falsely lowered LEU results,
+;1}]
+2021-11-25 09:43:04 Insert db
+2021-11-25 09:43:04 200
+2021-11-25 09:43:04 Tính bằng script 3
