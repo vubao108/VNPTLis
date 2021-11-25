@@ -3,12 +3,7 @@ data = `7228  00149                                                       25/11
 
 var Obketquamay = [];
 var dsketqua   = [];
-var mydata = data.replace(/\u0002|\u0003/g,'');//.replace(/\u0003/,'');
-//var mydata = data.replace(/^\s*[\r\n]/gm, '');
-// if(mydata.indexOf("\r")!=-1)
-// {
-//     var rows = mydata.split("\r");
-// }else  {var rows = mydata.split("\n"); }
+var mydata = data.replace(/\u0002|\u0003/g,'');
 var rows = mydata.split(/\s+/)
 
 var stt = parseInt(rows[1].trim()).toFixed(0);
