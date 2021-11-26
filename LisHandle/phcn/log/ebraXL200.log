@@ -1,0 +1,2891 @@
+2021-11-26 14:03:28 server 12377
+2021-11-26 14:05:05 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:05:05 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:05:05 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:05:20 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:05:20 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:05:20 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:05:23 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:05:23 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:05:23 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:05:38 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:05:38 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:05:38 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:07:30 server 12377
+2021-11-26 14:07:30 server 12377
+2021-11-26 14:07:46 server 12377
+2021-11-26 14:08:42 server 12377
+2021-11-26 14:09:31 server 12377
+2021-11-26 14:09:31 server 12377
+2021-11-26 14:09:31 server 12377
+2021-11-26 14:09:54 server 12377
+2021-11-26 14:11:17 server 12377
+2021-11-26 14:11:17 server 12377
+2021-11-26 14:11:17 server 12377
+2021-11-26 14:11:18 server 12377
+2021-11-26 14:13:21 server 12377
+2021-11-26 14:13:21 server 12377
+2021-11-26 14:16:57 server 12377
+2021-11-26 14:17:58 server 12377
+2021-11-26 14:17:58 server 12377
+2021-11-26 14:28:23 server 12377
+2021-11-26 14:28:23 server 12377
+2021-11-26 14:28:23 server 12377
+2021-11-26 14:32:42 server 12377
+2021-11-26 14:32:42 server 12377
+2021-11-26 14:32:42 server 12377
+2021-11-26 14:32:42 server 12377
+2021-11-26 14:43:01 server 12377
+2021-11-26 14:43:07 server 12377
+2021-11-26 14:43:07 server 12377
+2021-11-26 14:43:08 server 12377
+2021-11-26 14:43:08 server 12377
+2021-11-26 14:43:08 server 12377
+2021-11-26 14:44:09 server 12377
+2021-11-26 14:44:36 server 12377
+2021-11-26 14:44:37 server 12377
+2021-11-26 14:50:36 server 12377
+2021-11-26 14:51:03 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:03 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:03 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:03 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:03 getKetQuaMay
+2021-11-26 14:51:03 executeScript
+2021-11-26 14:51:03 data nhận: 
+2021-11-26 14:51:03 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:03 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:51:03 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:03 Insert db
+2021-11-26 14:51:04 200
+2021-11-26 14:51:04 Tính bằng script 3
+2021-11-26 14:51:14 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:14 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:15 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:15 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:15 getKetQuaMay
+2021-11-26 14:51:15 executeScript
+2021-11-26 14:51:15 data nhận: 
+2021-11-26 14:51:15 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:15 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:51:15 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:15 Insert db
+2021-11-26 14:51:15 200
+2021-11-26 14:51:15 Tính bằng script 3
+2021-11-26 14:51:18 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:18 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:18 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:18 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:18 getKetQuaMay
+2021-11-26 14:51:18 executeScript
+2021-11-26 14:51:18 data nhận: 
+2021-11-26 14:51:18 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:18 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:51:18 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:18 Insert db
+2021-11-26 14:51:18 200
+2021-11-26 14:51:18 Tính bằng script 3
+2021-11-26 14:51:33 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:33 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:33 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:33 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:33 getKetQuaMay
+2021-11-26 14:51:33 executeScript
+2021-11-26 14:51:33 data nhận: 
+2021-11-26 14:51:33 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:33 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:51:33 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:33 Insert db
+2021-11-26 14:51:33 200
+2021-11-26 14:51:33 Tính bằng script 3
+2021-11-26 14:51:36 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:36 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:36 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:36 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:36 getKetQuaMay
+2021-11-26 14:51:36 executeScript
+2021-11-26 14:51:36 data nhận: 
+2021-11-26 14:51:36 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:36 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:51:36 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:36 Insert db
+2021-11-26 14:51:36 200
+2021-11-26 14:51:36 Tính bằng script 3
+2021-11-26 14:51:51 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:51 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:51 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:51 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:51:51 getKetQuaMay
+2021-11-26 14:51:51 executeScript
+2021-11-26 14:51:51 data nhận: 
+2021-11-26 14:51:51 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:51 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:51:51 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:51 Insert db
+2021-11-26 14:51:51 200
+2021-11-26 14:51:51 Tính bằng script 3
+2021-11-26 14:51:54 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:54 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:54 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:54 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:51:54 getKetQuaMay
+2021-11-26 14:51:54 executeScript
+2021-11-26 14:51:54 data nhận: 
+2021-11-26 14:51:54 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:51:54 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:51:54 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:51:54 Insert db
+2021-11-26 14:51:54 200
+2021-11-26 14:51:54 Tính bằng script 3
+2021-11-26 14:52:09 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:09 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:09 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:09 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:09 getKetQuaMay
+2021-11-26 14:52:09 executeScript
+2021-11-26 14:52:09 data nhận: 
+2021-11-26 14:52:09 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:52:09 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:52:09 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:52:09 Insert db
+2021-11-26 14:52:09 200
+2021-11-26 14:52:09 Tính bằng script 3
+2021-11-26 14:52:12 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:12 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:12 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:12 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:12 getKetQuaMay
+2021-11-26 14:52:12 executeScript
+2021-11-26 14:52:12 data nhận: 
+2021-11-26 14:52:12 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:52:12 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:52:12 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:52:12 Insert db
+2021-11-26 14:52:13 200
+2021-11-26 14:52:13 Tính bằng script 3
+2021-11-26 14:52:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:27 getKetQuaMay
+2021-11-26 14:52:27 executeScript
+2021-11-26 14:52:27 data nhận: 
+2021-11-26 14:52:27 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:52:27 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:52:27 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:52:27 Insert db
+2021-11-26 14:52:28 200
+2021-11-26 14:52:28 Tính bằng script 3
+2021-11-26 14:52:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:31 getKetQuaMay
+2021-11-26 14:52:31 executeScript
+2021-11-26 14:52:31 data nhận: 
+2021-11-26 14:52:31 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:52:31 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:52:31 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:52:31 Insert db
+2021-11-26 14:52:31 200
+2021-11-26 14:52:31 Tính bằng script 3
+2021-11-26 14:52:45 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:45 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:52:46 getKetQuaMay
+2021-11-26 14:52:46 executeScript
+2021-11-26 14:52:46 data nhận: 
+2021-11-26 14:52:46 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:52:46 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:52:46 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:52:46 Insert db
+2021-11-26 14:52:47 200
+2021-11-26 14:52:47 Tính bằng script 3
+2021-11-26 14:52:49 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:49 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:49 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:49 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:52:49 getKetQuaMay
+2021-11-26 14:52:49 executeScript
+2021-11-26 14:52:49 data nhận: 
+2021-11-26 14:52:49 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:52:49 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:52:49 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:52:49 Insert db
+2021-11-26 14:52:49 200
+2021-11-26 14:52:49 Tính bằng script 3
+2021-11-26 14:53:04 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:04 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:04 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:04 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:04 getKetQuaMay
+2021-11-26 14:53:04 executeScript
+2021-11-26 14:53:04 data nhận: 
+2021-11-26 14:53:04 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:04 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:53:04 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:04 Insert db
+2021-11-26 14:53:04 200
+2021-11-26 14:53:04 Tính bằng script 3
+2021-11-26 14:53:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:07 getKetQuaMay
+2021-11-26 14:53:07 executeScript
+2021-11-26 14:53:07 data nhận: 
+2021-11-26 14:53:07 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:07 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:53:07 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:07 Insert db
+2021-11-26 14:53:07 200
+2021-11-26 14:53:07 Tính bằng script 3
+2021-11-26 14:53:22 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:22 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:22 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:22 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:22 getKetQuaMay
+2021-11-26 14:53:22 executeScript
+2021-11-26 14:53:22 data nhận: 
+2021-11-26 14:53:22 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:22 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:53:22 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:22 Insert db
+2021-11-26 14:53:22 200
+2021-11-26 14:53:22 Tính bằng script 3
+2021-11-26 14:53:25 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:25 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:25 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:25 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:25 getKetQuaMay
+2021-11-26 14:53:25 executeScript
+2021-11-26 14:53:25 data nhận: 
+2021-11-26 14:53:25 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:25 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:53:25 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:25 Insert db
+2021-11-26 14:53:25 200
+2021-11-26 14:53:26 Tính bằng script 3
+2021-11-26 14:53:40 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:40 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:40 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:40 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:40 getKetQuaMay
+2021-11-26 14:53:40 executeScript
+2021-11-26 14:53:40 data nhận: 
+2021-11-26 14:53:40 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:40 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:53:40 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:40 Insert db
+2021-11-26 14:53:40 200
+2021-11-26 14:53:41 Tính bằng script 3
+2021-11-26 14:53:43 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:43 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:44 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:44 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:53:44 getKetQuaMay
+2021-11-26 14:53:44 executeScript
+2021-11-26 14:53:44 data nhận: 
+2021-11-26 14:53:44 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:44 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:53:44 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:44 Insert db
+2021-11-26 14:53:44 200
+2021-11-26 14:53:44 Tính bằng script 3
+2021-11-26 14:53:58 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:58 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:59 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:59 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:53:59 getKetQuaMay
+2021-11-26 14:53:59 executeScript
+2021-11-26 14:53:59 data nhận: 
+2021-11-26 14:53:59 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:53:59 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:53:59 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:53:59 Insert db
+2021-11-26 14:53:59 200
+2021-11-26 14:53:59 Tính bằng script 3
+2021-11-26 14:54:02 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:02 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:02 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:02 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:02 getKetQuaMay
+2021-11-26 14:54:02 executeScript
+2021-11-26 14:54:02 data nhận: 
+2021-11-26 14:54:02 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:02 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:54:02 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:02 Insert db
+2021-11-26 14:54:02 200
+2021-11-26 14:54:02 Tính bằng script 3
+2021-11-26 14:54:17 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:17 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:17 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:17 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:17 getKetQuaMay
+2021-11-26 14:54:17 executeScript
+2021-11-26 14:54:17 data nhận: 
+2021-11-26 14:54:17 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:17 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:54:17 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:17 Insert db
+2021-11-26 14:54:17 200
+2021-11-26 14:54:17 Tính bằng script 3
+2021-11-26 14:54:20 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:20 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:20 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:20 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:20 getKetQuaMay
+2021-11-26 14:54:20 executeScript
+2021-11-26 14:54:20 data nhận: 
+2021-11-26 14:54:20 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:20 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:54:20 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:20 Insert db
+2021-11-26 14:54:20 200
+2021-11-26 14:54:20 Tính bằng script 3
+2021-11-26 14:54:35 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:35 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:35 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:35 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:35 getKetQuaMay
+2021-11-26 14:54:35 executeScript
+2021-11-26 14:54:35 data nhận: 
+2021-11-26 14:54:35 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:35 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:54:35 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:35 Insert db
+2021-11-26 14:54:35 200
+2021-11-26 14:54:35 Tính bằng script 3
+2021-11-26 14:54:38 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:38 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:38 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:38 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:38 getKetQuaMay
+2021-11-26 14:54:38 executeScript
+2021-11-26 14:54:38 data nhận: 
+2021-11-26 14:54:38 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:38 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:54:38 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:38 Insert db
+2021-11-26 14:54:38 200
+2021-11-26 14:54:38 Tính bằng script 3
+2021-11-26 14:54:53 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:53 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:53 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:53 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:54:53 getKetQuaMay
+2021-11-26 14:54:53 executeScript
+2021-11-26 14:54:53 data nhận: 
+2021-11-26 14:54:53 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:53 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:54:53 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:53 Insert db
+2021-11-26 14:54:53 200
+2021-11-26 14:54:53 Tính bằng script 3
+2021-11-26 14:54:56 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:56 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:56 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:56 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:54:56 getKetQuaMay
+2021-11-26 14:54:56 executeScript
+2021-11-26 14:54:56 data nhận: 
+2021-11-26 14:54:56 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:54:56 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:54:56 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:54:56 Insert db
+2021-11-26 14:54:56 200
+2021-11-26 14:54:57 Tính bằng script 3
+2021-11-26 14:55:11 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:11 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:11 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:11 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:11 getKetQuaMay
+2021-11-26 14:55:11 executeScript
+2021-11-26 14:55:11 data nhận: 
+2021-11-26 14:55:11 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:55:11 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:55:11 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:55:11 Insert db
+2021-11-26 14:55:11 200
+2021-11-26 14:55:12 Tính bằng script 3
+2021-11-26 14:55:14 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:14 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:15 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:15 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:15 getKetQuaMay
+2021-11-26 14:55:15 executeScript
+2021-11-26 14:55:15 data nhận: 
+2021-11-26 14:55:15 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:55:15 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:55:15 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:55:15 Insert db
+2021-11-26 14:55:15 200
+2021-11-26 14:55:15 Tính bằng script 3
+2021-11-26 14:55:29 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:29 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:30 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:30 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:30 getKetQuaMay
+2021-11-26 14:55:30 executeScript
+2021-11-26 14:55:30 data nhận: 
+2021-11-26 14:55:30 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:55:30 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:55:30 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:55:30 Insert db
+2021-11-26 14:55:30 200
+2021-11-26 14:55:30 Tính bằng script 3
+2021-11-26 14:55:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:33 getKetQuaMay
+2021-11-26 14:55:33 executeScript
+2021-11-26 14:55:33 data nhận: 
+2021-11-26 14:55:33 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:55:33 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:55:33 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:55:33 Insert db
+2021-11-26 14:55:33 200
+2021-11-26 14:55:33 Tính bằng script 3
+2021-11-26 14:55:48 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:48 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:48 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:48 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:55:48 getKetQuaMay
+2021-11-26 14:55:48 executeScript
+2021-11-26 14:55:48 data nhận: 
+2021-11-26 14:55:48 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:55:48 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:55:48 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:55:48 Insert db
+2021-11-26 14:55:48 200
+2021-11-26 14:55:48 Tính bằng script 3
+2021-11-26 14:55:51 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:51 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:51 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:51 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:55:51 getKetQuaMay
+2021-11-26 14:55:51 executeScript
+2021-11-26 14:55:51 data nhận: 
+2021-11-26 14:55:51 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:55:51 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:55:51 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:55:51 Insert db
+2021-11-26 14:55:51 200
+2021-11-26 14:55:51 Tính bằng script 3
+2021-11-26 14:56:06 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:06 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:06 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:06 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:06 getKetQuaMay
+2021-11-26 14:56:06 executeScript
+2021-11-26 14:56:06 data nhận: 
+2021-11-26 14:56:06 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:56:06 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:56:06 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:56:06 Insert db
+2021-11-26 14:56:06 200
+2021-11-26 14:56:06 Tính bằng script 3
+2021-11-26 14:56:09 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:09 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:09 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:09 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:09 getKetQuaMay
+2021-11-26 14:56:09 executeScript
+2021-11-26 14:56:09 data nhận: 
+2021-11-26 14:56:09 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:56:09 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:56:09 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:56:09 Insert db
+2021-11-26 14:56:10 200
+2021-11-26 14:56:10 Tính bằng script 3
+2021-11-26 14:56:24 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:24 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:24 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:24 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:24 getKetQuaMay
+2021-11-26 14:56:24 executeScript
+2021-11-26 14:56:24 data nhận: 
+2021-11-26 14:56:24 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:56:24 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:56:24 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:56:24 Insert db
+2021-11-26 14:56:24 200
+2021-11-26 14:56:24 Tính bằng script 3
+2021-11-26 14:56:27 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:27 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:27 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:27 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:27 getKetQuaMay
+2021-11-26 14:56:27 executeScript
+2021-11-26 14:56:27 data nhận: 
+2021-11-26 14:56:27 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:56:27 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:56:27 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:56:27 Insert db
+2021-11-26 14:56:27 200
+2021-11-26 14:56:28 Tính bằng script 3
+2021-11-26 14:56:42 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:42 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:42 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:42 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:56:42 getKetQuaMay
+2021-11-26 14:56:42 executeScript
+2021-11-26 14:56:42 data nhận: 
+2021-11-26 14:56:42 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:56:42 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:56:42 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:56:42 Insert db
+2021-11-26 14:56:42 200
+2021-11-26 14:56:43 Tính bằng script 3
+2021-11-26 14:56:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:56:45 getKetQuaMay
+2021-11-26 14:56:45 executeScript
+2021-11-26 14:56:45 data nhận: 
+2021-11-26 14:56:45 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:56:45 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:56:45 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:56:45 Insert db
+2021-11-26 14:56:46 200
+2021-11-26 14:56:46 Tính bằng script 3
+2021-11-26 14:57:00 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:00 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:00 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:00 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:00 getKetQuaMay
+2021-11-26 14:57:00 executeScript
+2021-11-26 14:57:00 data nhận: 
+2021-11-26 14:57:00 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:57:00 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:57:00 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:57:00 Insert db
+2021-11-26 14:57:01 200
+2021-11-26 14:57:01 Tính bằng script 3
+2021-11-26 14:57:03 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:57:03 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:57:04 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:57:04 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:57:04 getKetQuaMay
+2021-11-26 14:57:04 executeScript
+2021-11-26 14:57:04 data nhận: 
+2021-11-26 14:57:04 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:57:04 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:57:04 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:57:04 Insert db
+2021-11-26 14:57:04 200
+2021-11-26 14:57:04 Tính bằng script 3
+2021-11-26 14:57:18 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:18 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:19 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:19 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:57:19 getKetQuaMay
+2021-11-26 14:57:19 executeScript
+2021-11-26 14:57:19 data nhận: 
+2021-11-26 14:57:19 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:57:19 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:57:19 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:57:19 Insert db
+2021-11-26 14:57:19 200
+2021-11-26 14:57:19 Tính bằng script 3
+2021-11-26 14:58:28 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:28 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:28 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:28 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:28 getKetQuaMay
+2021-11-26 14:58:28 executeScript
+2021-11-26 14:58:28 data nhận: 
+2021-11-26 14:58:28 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:58:28 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:58:28 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:58:28 Insert db
+2021-11-26 14:58:28 200
+2021-11-26 14:58:28 Tính bằng script 3
+2021-11-26 14:58:43 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:58:43 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:58:43 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:58:43 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:58:43 getKetQuaMay
+2021-11-26 14:58:43 executeScript
+2021-11-26 14:58:43 data nhận: 
+2021-11-26 14:58:43 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:58:43 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:58:43 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:58:43 Insert db
+2021-11-26 14:58:43 200
+2021-11-26 14:58:43 Tính bằng script 3
+2021-11-26 14:58:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 14:58:46 getKetQuaMay
+2021-11-26 14:58:46 executeScript
+2021-11-26 14:58:46 data nhận: 
+2021-11-26 14:58:46 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:58:46 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 14:58:46 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:58:46 Insert db
+2021-11-26 14:58:46 200
+2021-11-26 14:58:46 Tính bằng script 3
+2021-11-26 14:59:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:59:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:59:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:59:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 14:59:01 getKetQuaMay
+2021-11-26 14:59:01 executeScript
+2021-11-26 14:59:01 data nhận: 
+2021-11-26 14:59:01 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 14:59:01 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 14:59:01 executed data: [{maXNGui=0;;1}]
+2021-11-26 14:59:01 Insert db
+2021-11-26 14:59:01 200
+2021-11-26 14:59:02 Tính bằng script 3
+2021-11-26 15:01:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:33 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:33 getKetQuaMay
+2021-11-26 15:01:33 executeScript
+2021-11-26 15:01:33 data nhận: 
+2021-11-26 15:01:33 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:01:33 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:01:33 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:01:33 Insert db
+2021-11-26 15:01:34 200
+2021-11-26 15:01:34 Tính bằng script 3
+2021-11-26 15:01:39 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:39 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:39 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:39 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:39 getKetQuaMay
+2021-11-26 15:01:39 executeScript
+2021-11-26 15:01:39 data nhận: 
+2021-11-26 15:01:39 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:01:39 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:01:39 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:01:39 Insert db
+2021-11-26 15:01:39 200
+2021-11-26 15:01:39 Tính bằng script 3
+2021-11-26 15:01:42 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:42 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:42 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:42 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:01:42 getKetQuaMay
+2021-11-26 15:01:42 executeScript
+2021-11-26 15:01:42 data nhận: 
+2021-11-26 15:01:42 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:01:42 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:01:42 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:01:42 Insert db
+2021-11-26 15:01:42 200
+2021-11-26 15:01:43 Tính bằng script 3
+2021-11-26 15:01:57 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:57 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:57 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:57 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:01:57 getKetQuaMay
+2021-11-26 15:01:57 executeScript
+2021-11-26 15:01:57 data nhận: 
+2021-11-26 15:01:57 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:01:57 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:01:57 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:01:57 Insert db
+2021-11-26 15:01:57 200
+2021-11-26 15:01:58 Tính bằng script 3
+2021-11-26 15:04:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:31 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:31 getKetQuaMay
+2021-11-26 15:04:31 executeScript
+2021-11-26 15:04:31 data nhận: 
+2021-11-26 15:04:31 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:04:31 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:04:31 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:04:31 Insert db
+2021-11-26 15:04:31 200
+2021-11-26 15:04:31 Tính bằng script 3
+2021-11-26 15:04:42 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:04:42 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:04:43 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:04:43 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:04:43 getKetQuaMay
+2021-11-26 15:04:43 executeScript
+2021-11-26 15:04:43 data nhận: 
+2021-11-26 15:04:43 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:04:43 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:04:43 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:04:43 Insert db
+2021-11-26 15:04:43 200
+2021-11-26 15:04:43 Tính bằng script 3
+2021-11-26 15:04:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:46 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:04:46 getKetQuaMay
+2021-11-26 15:04:46 executeScript
+2021-11-26 15:04:46 data nhận: 
+2021-11-26 15:04:46 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:04:46 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:04:46 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:04:46 Insert db
+2021-11-26 15:04:46 200
+2021-11-26 15:04:46 Tính bằng script 3
+2021-11-26 15:05:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:05:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:05:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:05:01 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:05:01 getKetQuaMay
+2021-11-26 15:05:01 executeScript
+2021-11-26 15:05:01 data nhận: 
+2021-11-26 15:05:01 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:05:01 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:05:01 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:05:01 Insert db
+2021-11-26 15:05:01 200
+2021-11-26 15:05:01 Tính bằng script 3
+2021-11-26 15:18:37 server 12377
+2021-11-26 15:19:02 server 12377
+2021-11-26 15:19:51 server 12377
+2021-11-26 15:20:06 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:06 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:07 getKetQuaMay
+2021-11-26 15:20:07 executeScript
+2021-11-26 15:20:07 data nhận: 
+2021-11-26 15:20:07 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:07 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:20:07 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:20:07 Insert db
+2021-11-26 15:20:07 200
+2021-11-26 15:20:07 Tính bằng script 3
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]58[CR][LF]
+
+2021-11-26 15:20:07 getKetQuaMay
+2021-11-26 15:20:07 executeScript
+2021-11-26 15:20:07 data nhận: 1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+58
+
+2021-11-26 15:20:07 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%021H%7C%60%5E%26%7C%7C%7C%7C%7C%7C%7C%7C%7C%7CP%7CE%201394-97%7C20211126152006%0DP%7C1%7C0%7C%7C%7Cnguy%C3%A1%C2%BB%E2%80%A6n%20c%C3%83%C2%B4ng%20minh%7C%7C%7CU%7C%7C%7C%7C%7C%7C%7C%7C0%7C0%0DO%7C1%7C20%7C%7C%5E%5E%5EGPT1%60%5E%5E%5EGOT1%60%5E%5E%5EGGT1%60%5E%5E%5ECRE1%60%5E%5E%5EGLU1%60%5E%5E%5EALB1%60%5E%5E%5EPRO1%60%5E%5E%5EUREA1%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7CSERUM%0DR%7C1%7C%5E%5E%5EALB1%7C30%7Cg%2Fl%7C%5EDEFAULT%7CL%7CN%7CF%7C%7C%7C%7C20211126144232%0DC%7C1%7CI%7CInstrument%20Flag%20L%0DR%7C2%7C%5E%5E%5ECRE1%7C79%7Cumol%2FL%7C%5EDEFAULT%7CN%7CN%7CF%7C%7C%7C%7C20211126144156%0DC%7C1%7CI%7CInstrument%20Flag%20N%0DR%7C3%7C%5E%5E%5EGGT1%7C139%7CU%2FL%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144138%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C4%7C%5E%5E%5EGLU1%7C7.0%7Cmmol%2Fl%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144214%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C5%7C%5E%5E%5EGOT1%7C77%7CU%2FL%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144120%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C6%7C%5E%5E%5EGPT1%7C69%7CU%2FL%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144102%0DC%7C1%7CI%7CInstrument%20Flag%20A%2CH%0DR%7C7%7C%5E%5E%5EPRO1%7C67%7Cg%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144250%0DC%7C1%7CI%7CInstrument%20Flag%20A%0DR%7C8%7C%5E%5E%5EUREA1%7C2.2%7Cmmol%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144308%0DC%7C1%7CI%7CInstrument%20Flag%20A%2CL%0DL%7C1%7CN%0D%0358%0D%0A');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:07 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u00021H|`^&||||||||||P|E 1394-97|20211126152006\rP|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0\rO|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM\rR|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232\rC|1|I|Instrument Flag L\rR|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156\rC|1|I|Instrument Flag N\rR|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138\rC|1|I|Instrument Flag H\rR|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214\rC|1|I|Instrument Flag H\rR|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120\rC|1|I|Instrument Flag H\rR|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102\rC|1|I|Instrument Flag A,H\rR|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250\rC|1|I|Instrument Flag A\rR|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308\rC|1|I|Instrument Flag A,L\rL|1|N\r\u000358\r\n","ketqua":0}}
+2021-11-26 15:20:07 executed data: [{maXNGui=0;1H|`^&||||||||||P|E 1394-97|20211126152006
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+58
+;1}]
+2021-11-26 15:20:07 Insert db
+2021-11-26 15:20:07 200
+2021-11-26 15:20:07 Tính bằng script 3
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:08 getKetQuaMay
+2021-11-26 15:20:08 executeScript
+2021-11-26 15:20:08 data nhận: 
+2021-11-26 15:20:08 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:08 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:20:08 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:20:08 Insert db
+2021-11-26 15:20:08 200
+2021-11-26 15:20:08 Tính bằng script 3
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:26 getKetQuaMay
+2021-11-26 15:20:26 executeScript
+2021-11-26 15:20:26 data nhận: 
+2021-11-26 15:20:26 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:26 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:20:26 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:20:26 Insert db
+2021-11-26 15:20:26 200
+2021-11-26 15:20:26 Tính bằng script 3
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:26 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+[ETX]5A[CR][LF]
+
+2021-11-26 15:20:27 getKetQuaMay
+2021-11-26 15:20:27 executeScript
+2021-11-26 15:20:27 data nhận: 1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+5A
+
+2021-11-26 15:20:27 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%021H%7C%60%5E%26%7C%7C%7C%7C%7C%7C%7C%7C%7C%7CP%7CE%201394-97%7C20211126152026%0DP%7C1%7C0%7C%7C%7Cnguy%C3%A1%C2%BB%E2%80%A6n%20c%C3%83%C2%B4ng%20minh%7C%7C%7CU%7C%7C%7C%7C%7C%7C%7C%7C0%7C0%0DO%7C1%7C20%7C%7C%5E%5E%5EGPT1%60%5E%5E%5EGOT1%60%5E%5E%5EGGT1%60%5E%5E%5ECRE1%60%5E%5E%5EGLU1%60%5E%5E%5EALB1%60%5E%5E%5EPRO1%60%5E%5E%5EUREA1%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7CSERUM%0DR%7C1%7C%5E%5E%5EALB1%7C30%7Cg%2Fl%7C%5EDEFAULT%7CL%7CN%7CF%7C%7C%7C%7C20211126144232%0DC%7C1%7CI%7CInstrument%20Flag%20L%0DR%7C2%7C%5E%5E%5ECRE1%7C79%7Cumol%2FL%7C%5EDEFAULT%7CN%7CN%7CF%7C%7C%7C%7C20211126144156%0DC%7C1%7CI%7CInstrument%20Flag%20N%0DR%7C3%7C%5E%5E%5EGGT1%7C139%7CU%2FL%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144138%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C4%7C%5E%5E%5EGLU1%7C7.0%7Cmmol%2Fl%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144214%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C5%7C%5E%5E%5EGOT1%7C77%7CU%2FL%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144120%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C6%7C%5E%5E%5EGPT1%7C69%7CU%2FL%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144102%0DC%7C1%7CI%7CInstrument%20Flag%20A%2CH%0DR%7C7%7C%5E%5E%5EPRO1%7C67%7Cg%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144250%0DC%7C1%7CI%7CInstrument%20Flag%20A%0DR%7C8%7C%5E%5E%5EUREA1%7C2.2%7Cmmol%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144308%0DC%7C1%7CI%7CInstrument%20Flag%20A%2CL%0DL%7C1%7CN%0D%035A%0D%0A');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:27 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u00021H|`^&||||||||||P|E 1394-97|20211126152026\rP|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0\rO|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM\rR|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232\rC|1|I|Instrument Flag L\rR|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156\rC|1|I|Instrument Flag N\rR|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138\rC|1|I|Instrument Flag H\rR|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214\rC|1|I|Instrument Flag H\rR|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120\rC|1|I|Instrument Flag H\rR|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102\rC|1|I|Instrument Flag A,H\rR|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250\rC|1|I|Instrument Flag A\rR|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308\rC|1|I|Instrument Flag A,L\rL|1|N\r\u00035A\r\n","ketqua":0}}
+2021-11-26 15:20:27 executed data: [{maXNGui=0;1H|`^&||||||||||P|E 1394-97|20211126152026
+P|1|0|||nguyá»…n cÃ´ng minh|||U||||||||0|0
+O|1|20||^^^GPT1`^^^GOT1`^^^GGT1`^^^CRE1`^^^GLU1`^^^ALB1`^^^PRO1`^^^UREA1|||||||||||SERUM
+R|1|^^^ALB1|30|g/l|^DEFAULT|L|N|F||||20211126144232
+C|1|I|Instrument Flag L
+R|2|^^^CRE1|79|umol/L|^DEFAULT|N|N|F||||20211126144156
+C|1|I|Instrument Flag N
+R|3|^^^GGT1|139|U/L|^DEFAULT|H|N|F||||20211126144138
+C|1|I|Instrument Flag H
+R|4|^^^GLU1|7.0|mmol/l|^DEFAULT|H|N|F||||20211126144214
+C|1|I|Instrument Flag H
+R|5|^^^GOT1|77|U/L|^DEFAULT|H|N|F||||20211126144120
+C|1|I|Instrument Flag H
+R|6|^^^GPT1|69|U/L|^DEFAULT|A|N|F||||20211126144102
+C|1|I|Instrument Flag A,H
+R|7|^^^PRO1|67|g/l|^DEFAULT|A|N|F||||20211126144250
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|2.2|mmol/l|^DEFAULT|A|N|F||||20211126144308
+C|1|I|Instrument Flag A,L
+L|1|N
+5A
+;1}]
+2021-11-26 15:20:27 Insert db
+2021-11-26 15:20:27 200
+2021-11-26 15:20:27 Tính bằng script 3
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:27 getKetQuaMay
+2021-11-26 15:20:27 executeScript
+2021-11-26 15:20:27 data nhận: 
+2021-11-26 15:20:27 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:27 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:20:27 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:20:27 Insert db
+2021-11-26 15:20:27 200
+2021-11-26 15:20:27 Tính bằng script 3
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 hth_phcn_EbaXL200[M]: [ENQ]
+
+2021-11-26 15:20:45 getKetQuaMay
+2021-11-26 15:20:45 executeScript
+2021-11-26 15:20:45 data nhận: 
+2021-11-26 15:20:45 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%05');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:45 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0005","ketqua":0}}
+2021-11-26 15:20:45 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:20:45 Insert db
+2021-11-26 15:20:45 200
+2021-11-26 15:20:45 Tính bằng script 3
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [STX]1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+[ETX]D4[CR][LF]
+
+2021-11-26 15:20:46 getKetQuaMay
+2021-11-26 15:20:46 executeScript
+2021-11-26 15:20:46 data nhận: 1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+D4
+
+2021-11-26 15:20:46 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%021H%7C%60%5E%26%7C%7C%7C%7C%7C%7C%7C%7C%7C%7CP%7CE%201394-97%7C20211126152045%0DP%7C1%7C0%7C%7C%7Cphan%20b%C3%83%C2%A1%20%C3%84%E2%80%98%C3%A1%C2%BB%E2%80%9Cng%7C%7C%7CU%7C%7C%7C%7C%7C%7C%7C%7C0%7C0%0DO%7C1%7C21%7C%7C%5E%5E%5EGPT1%60%5E%5E%5EGOT1%60%5E%5E%5ECRE1%60%5E%5E%5EGLU1%60%5E%5E%5ETG1%60%5E%5E%5ECHOL1%60%5E%5E%5EHDL1%60%5E%5E%5EUREA1%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7CSERUM%0DR%7C1%7C%5E%5E%5ECHOL1%7C2.7%7Cmmol%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144457%0DC%7C1%7CI%7CInstrument%20Flag%20A%2CL%0DR%7C2%7C%5E%5E%5ECRE1%7C90%7Cumol%2FL%7C%5EDEFAULT%7CN%7CN%7CF%7C%7C%7C%7C20211126144402%0DC%7C1%7CI%7CInstrument%20Flag%20N%0DR%7C3%7C%5E%5E%5EGLU1%7C8.4%7Cmmol%2Fl%7C%5EDEFAULT%7CH%7CN%7CF%7C%7C%7C%7C20211126144420%0DC%7C1%7CI%7CInstrument%20Flag%20H%0DR%7C4%7C%5E%5E%5EGOT1%7C21%7CU%2FL%7C%5EDEFAULT%7CN%7CN%7CF%7C%7C%7C%7C20211126144344%0DC%7C1%7CI%7CInstrument%20Flag%20N%0DR%7C5%7C%5E%5E%5EGPT1%7C22%7CU%2FL%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144326%0DC%7C1%7CI%7CInstrument%20Flag%20A%0DR%7C6%7C%5E%5E%5EHDL1%7C1.0%7Cmmol%2Fl%7C%5EDEFAULT%7CN%7CN%7CF%7C%7C%7C%7C20211126144515%0DC%7C1%7CI%7CInstrument%20Flag%20N%0DR%7C7%7C%5E%5E%5ETG1%7C1.5%7Cmmol%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144438%0DC%7C1%7CI%7CInstrument%20Flag%20A%0DR%7C8%7C%5E%5E%5EUREA1%7C8.0%7Cmmol%2Fl%7C%5EDEFAULT%7CA%7CN%7CF%7C%7C%7C%7C20211126144533%0DC%7C1%7CI%7CInstrument%20Flag%20A%2CH%0DL%7C1%7CN%0D%03D4%0D%0A');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:46 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u00021H|`^&||||||||||P|E 1394-97|20211126152045\rP|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0\rO|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM\rR|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457\rC|1|I|Instrument Flag A,L\rR|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402\rC|1|I|Instrument Flag N\rR|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420\rC|1|I|Instrument Flag H\rR|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344\rC|1|I|Instrument Flag N\rR|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326\rC|1|I|Instrument Flag A\rR|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515\rC|1|I|Instrument Flag N\rR|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438\rC|1|I|Instrument Flag A\rR|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533\rC|1|I|Instrument Flag A,H\rL|1|N\r\u0003D4\r\n","ketqua":0}}
+2021-11-26 15:20:46 executed data: [{maXNGui=0;1H|`^&||||||||||P|E 1394-97|20211126152045
+P|1|0|||phan bÃ¡ Ä‘á»“ng|||U||||||||0|0
+O|1|21||^^^GPT1`^^^GOT1`^^^CRE1`^^^GLU1`^^^TG1`^^^CHOL1`^^^HDL1`^^^UREA1|||||||||||SERUM
+R|1|^^^CHOL1|2.7|mmol/l|^DEFAULT|A|N|F||||20211126144457
+C|1|I|Instrument Flag A,L
+R|2|^^^CRE1|90|umol/L|^DEFAULT|N|N|F||||20211126144402
+C|1|I|Instrument Flag N
+R|3|^^^GLU1|8.4|mmol/l|^DEFAULT|H|N|F||||20211126144420
+C|1|I|Instrument Flag H
+R|4|^^^GOT1|21|U/L|^DEFAULT|N|N|F||||20211126144344
+C|1|I|Instrument Flag N
+R|5|^^^GPT1|22|U/L|^DEFAULT|A|N|F||||20211126144326
+C|1|I|Instrument Flag A
+R|6|^^^HDL1|1.0|mmol/l|^DEFAULT|N|N|F||||20211126144515
+C|1|I|Instrument Flag N
+R|7|^^^TG1|1.5|mmol/l|^DEFAULT|A|N|F||||20211126144438
+C|1|I|Instrument Flag A
+R|8|^^^UREA1|8.0|mmol/l|^DEFAULT|A|N|F||||20211126144533
+C|1|I|Instrument Flag A,H
+L|1|N
+D4
+;1}]
+2021-11-26 15:20:46 Insert db
+2021-11-26 15:20:46 200
+2021-11-26 15:20:46 Tính bằng script 3
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[L]: [ACK]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 hth_phcn_EbaXL200[M]: [EOT]
+
+2021-11-26 15:20:46 getKetQuaMay
+2021-11-26 15:20:46 executeScript
+2021-11-26 15:20:46 data nhận: 
+2021-11-26 15:20:46 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%04');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+    var dsketqua   = [];
+    var mydata = data;
+
+
+    
+      
+   
+        Obketquamay = [];
+        Obketquamay.stt = 1;
+        Obketquamay.ma_xn_may = data
+        Obketquamay.ketqua = 0;
+      	
+        dsketqua.push(Obketquamay);
+ 
+   
+    return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-11-26 15:20:46 KQ sau khi tính: {"0":{"stt":1,"ma_xn_may":"\u0004","ketqua":0}}
+2021-11-26 15:20:46 executed data: [{maXNGui=0;;1}]
+2021-11-26 15:20:46 Insert db
+2021-11-26 15:20:47 200
+2021-11-26 15:20:47 Tính bằng script 3
