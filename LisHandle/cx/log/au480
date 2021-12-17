@@ -1,0 +1,992 @@
+2021-12-11 14:12:26 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:12:26 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:12:26 getKetQuaMay
+2021-12-11 14:12:26 executeScript
+2021-12-11 14:12:26 data nhận: DB
+2021-12-11 14:12:26 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02DB%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:12:26 KQ sau khi tính: {}
+2021-12-11 14:12:26 executed data: []
+2021-12-11 14:12:28 cx_AU480[M]: [STX]D 000101 0046                1740    E                    76  37.2r 77  47.2Pr86  5.91Pr87  76.2r 88  5.24r 92  1.89Pr93   342r
+
+2021-12-11 14:12:28 cx_AU480[M]: [STX]D 000101 0046                1740    E                    76  37.2r 77  47.2Pr86  5.91Pr87  76.2r 88  5.24r 92  1.89Pr93   342r
+
+2021-12-11 14:12:28 cx_AU480[M]:  94   5.1r [ETX]
+
+2021-12-11 14:12:28 cx_AU480[M]:  94   5.1r [ETX]
+
+2021-12-11 14:12:28 getKetQuaMay
+2021-12-11 14:12:28 executeScript
+2021-12-11 14:12:28 data nhận: D 000101 0046                1740    E                    76  37.2r 77  47.2Pr86  5.91Pr87  76.2r 88  5.24r 92  1.89Pr93   342r 94   5.1r 
+2021-12-11 14:12:29 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000101%200046%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201740%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2037.2r%2077%20%2047.2Pr86%20%205.91Pr87%20%2076.2r%2088%20%205.24r%2092%20%201.89Pr93%20%20%20342r%2094%20%20%205.1r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:12:29 KQ sau khi tính: {"0":{"stt":"1740","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1740","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1740","ma_xn_may":"  3","ketqua":"7.2 77"},"3":{"stt":"1740","ma_xn_may":" 47","ketqua":".286"},"4":{"stt":"1740","ma_xn_may":"5.9","ketqua":"187"},"5":{"stt":"1740","ma_xn_may":"6.2","ketqua":"88  5"},"6":{"stt":"1740","ma_xn_may":"24r","ketqua":"92  1."},"7":{"stt":"1740","ma_xn_may":"9Pr","ketqua":"93   34"},"8":{"stt":"1740","ma_xn_may":"r 9","ketqua":"4   5.1"}}
+2021-12-11 14:12:29 executed data: [{maXNGui=;   ;1740}, {maXNGui=7;   ;1740}, {maXNGui=7.2 77;  3;1740}, {maXNGui=.286; 47;1740}, {maXNGui=187;5.9;1740}, {maXNGui=88  5;6.2;1740}, {maXNGui=92  1.;24r;1740}, {maXNGui=93   34;9Pr;1740}, {maXNGui=4   5.1;r 9;1740}]
+2021-12-11 14:12:29 Insert db
+2021-12-11 14:12:29 200
+2021-12-11 14:12:29 Tính bằng script 1
+2021-12-11 14:12:30 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:12:30 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:12:31 getKetQuaMay
+2021-12-11 14:12:31 executeScript
+2021-12-11 14:12:31 data nhận: DE
+2021-12-11 14:12:31 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02DE%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:12:31 KQ sau khi tính: {}
+2021-12-11 14:12:31 executed data: []
+2021-12-11 14:15:37 getKetQuaMay
+2021-12-11 14:15:37 executeScript
+2021-12-11 14:15:37 data nhận: 
+DB
+2021-12-11 14:15:37 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%0A%02DB%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:15:37 KQ sau khi tính: {}
+2021-12-11 14:15:37 executed data: []
+2021-12-11 14:15:37 detele file
+2021-12-11 14:15:37 delete file thành công C:\LAB\logs\temp\42009\2_cx_AU480\11122021\11122021141226.txt
+2021-12-11 14:15:37 getKetQuaMay
+2021-12-11 14:15:37 executeScript
+2021-12-11 14:15:37 data nhận: 
+D 000101 0046                1740    E                    76  37.2r 77  47.2Pr86  5.91Pr87  76.2r 88  5.24r 92  1.89Pr93   342r 94   5.1r 
+2021-12-11 14:15:37 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%0A%02D%20000101%200046%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201740%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2037.2r%2077%20%2047.2Pr86%20%205.91Pr87%20%2076.2r%2088%20%205.24r%2092%20%201.89Pr93%20%20%20342r%2094%20%20%205.1r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:15:37 KQ sau khi tính: {"0":{"stt":"1740","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1740","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1740","ma_xn_may":"  3","ketqua":"7.2 77"},"3":{"stt":"1740","ma_xn_may":" 47","ketqua":".286"},"4":{"stt":"1740","ma_xn_may":"5.9","ketqua":"187"},"5":{"stt":"1740","ma_xn_may":"6.2","ketqua":"88  5"},"6":{"stt":"1740","ma_xn_may":"24r","ketqua":"92  1."},"7":{"stt":"1740","ma_xn_may":"9Pr","ketqua":"93   34"},"8":{"stt":"1740","ma_xn_may":"r 9","ketqua":"4   5.1"}}
+2021-12-11 14:15:37 executed data: [{maXNGui=;   ;1740}, {maXNGui=7;   ;1740}, {maXNGui=7.2 77;  3;1740}, {maXNGui=.286; 47;1740}, {maXNGui=187;5.9;1740}, {maXNGui=88  5;6.2;1740}, {maXNGui=92  1.;24r;1740}, {maXNGui=93   34;9Pr;1740}, {maXNGui=4   5.1;r 9;1740}]
+2021-12-11 14:15:37 Insert db
+2021-12-11 14:15:37 200
+2021-12-11 14:15:37 detele file
+2021-12-11 14:15:37 delete file thành công C:\LAB\logs\temp\42009\2_cx_AU480\11122021\11122021141228.txt
+2021-12-11 14:15:37 getKetQuaMay
+2021-12-11 14:15:37 executeScript
+2021-12-11 14:15:37 data nhận: 
+DE
+2021-12-11 14:15:37 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%0A%02DE%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:15:37 KQ sau khi tính: {}
+2021-12-11 14:15:37 executed data: []
+2021-12-11 14:15:37 detele file
+2021-12-11 14:15:37 delete file thành công C:\LAB\logs\temp\42009\2_cx_AU480\11122021\11122021141231.txt
+2021-12-11 14:17:38 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:17:38 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:17:38 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:17:38 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:17:38 getKetQuaMay
+2021-12-11 14:17:38 executeScript
+2021-12-11 14:17:38 data nhận: DB
+2021-12-11 14:17:38 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02DB%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:38 KQ sau khi tính: {}
+2021-12-11 14:17:38 executed data: []
+2021-12-11 14:17:41 cx_AU480[M]: [STX]D 000307 0031                1755    E                    76  22.7r 77  21.9r 86  4.58r 87  50.6Nr88  5.32r 92  1.24r 93   222r
+
+2021-12-11 14:17:41 cx_AU480[M]: [STX]D 000307 0031                1755    E                    76  22.7r 77  21.9r 86  4.58r 87  50.6Nr88  5.32r 92  1.24r 93   222r
+
+2021-12-11 14:17:41 cx_AU480[M]: [STX]D 000307 0031                1755    E                    76  22.7r 77  21.9r 86  4.58r 87  50.6Nr88  5.32r 92  1.24r 93   222r
+
+2021-12-11 14:17:41 cx_AU480[M]: [STX]D 000307 0031                1755    E                    76  22.7r 77  21.9r 86  4.58r 87  50.6Nr88  5.32r 92  1.24r 93   222r
+
+2021-12-11 14:17:41 cx_AU480[M]:  94   3.9r [ETX]
+
+2021-12-11 14:17:41 cx_AU480[M]:  94   3.9r [ETX]
+
+2021-12-11 14:17:41 cx_AU480[M]:  94   3.9r [ETX]
+
+2021-12-11 14:17:41 cx_AU480[M]:  94   3.9r [ETX]
+
+2021-12-11 14:17:41 getKetQuaMay
+2021-12-11 14:17:41 executeScript
+2021-12-11 14:17:41 data nhận: D 000307 0031                1755    E                    76  22.7r 77  21.9r 86  4.58r 87  50.6Nr88  5.32r 92  1.24r 93   222r 94   3.9r 
+2021-12-11 14:17:41 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000307%200031%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201755%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2022.7r%2077%20%2021.9r%2086%20%204.58r%2087%20%2050.6Nr88%20%205.32r%2092%20%201.24r%2093%20%20%20222r%2094%20%20%203.9r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:41 KQ sau khi tính: {"0":{"stt":"1755","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1755","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1755","ma_xn_may":"  2","ketqua":"2.7 77"},"3":{"stt":"1755","ma_xn_may":" 21","ketqua":".9 86"},"4":{"stt":"1755","ma_xn_may":"4.5","ketqua":"8 87"},"5":{"stt":"1755","ma_xn_may":"0.6","ketqua":"88  5"},"6":{"stt":"1755","ma_xn_may":"32r","ketqua":"92  1."},"7":{"stt":"1755","ma_xn_may":"4r ","ketqua":"93   22"},"8":{"stt":"1755","ma_xn_may":"r 9","ketqua":"4   3.9"}}
+2021-12-11 14:17:41 executed data: [{maXNGui=;   ;1755}, {maXNGui=7;   ;1755}, {maXNGui=2.7 77;  2;1755}, {maXNGui=.9 86; 21;1755}, {maXNGui=8 87;4.5;1755}, {maXNGui=88  5;0.6;1755}, {maXNGui=92  1.;32r;1755}, {maXNGui=93   22;4r ;1755}, {maXNGui=4   3.9;r 9;1755}]
+2021-12-11 14:17:41 Insert db
+2021-12-11 14:17:41 200
+2021-12-11 14:17:41 Tính bằng script 1
+2021-12-11 14:17:43 cx_AU480[M]: [STX]D 000308 0032                1754    E                    76  19.3r 77  13.3r 86  4.48r 87  61.8r 88  7.54Pr92  1.47r 93   293r
+
+2021-12-11 14:17:43 cx_AU480[M]: [STX]D 000308 0032                1754    E                    76  19.3r 77  13.3r 86  4.48r 87  61.8r 88  7.54Pr92  1.47r 93   293r
+
+2021-12-11 14:17:43 cx_AU480[M]: [STX]D 000308 0032                1754    E                    76  19.3r 77  13.3r 86  4.48r 87  61.8r 88  7.54Pr92  1.47r 93   293r
+
+2021-12-11 14:17:43 cx_AU480[M]: [STX]D 000308 0032                1754    E                    76  19.3r 77  13.3r 86  4.48r 87  61.8r 88  7.54Pr92  1.47r 93   293r
+
+2021-12-11 14:17:43 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:43 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:43 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:43 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:43 getKetQuaMay
+2021-12-11 14:17:43 executeScript
+2021-12-11 14:17:43 data nhận: D 000308 0032                1754    E                    76  19.3r 77  13.3r 86  4.48r 87  61.8r 88  7.54Pr92  1.47r 93   293r 94   4.5r 
+2021-12-11 14:17:43 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000308%200032%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201754%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2019.3r%2077%20%2013.3r%2086%20%204.48r%2087%20%2061.8r%2088%20%207.54Pr92%20%201.47r%2093%20%20%20293r%2094%20%20%204.5r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:43 KQ sau khi tính: {"0":{"stt":"1754","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1754","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1754","ma_xn_may":"  1","ketqua":"9.3 77"},"3":{"stt":"1754","ma_xn_may":" 13","ketqua":".3 86"},"4":{"stt":"1754","ma_xn_may":"4.4","ketqua":"8 87"},"5":{"stt":"1754","ma_xn_may":"1.8","ketqua":"88  7"},"6":{"stt":"1754","ma_xn_may":"54P","ketqua":"92  1."},"7":{"stt":"1754","ma_xn_may":"7r ","ketqua":"93   29"},"8":{"stt":"1754","ma_xn_may":"r 9","ketqua":"4   4.5"}}
+2021-12-11 14:17:43 executed data: [{maXNGui=;   ;1754}, {maXNGui=7;   ;1754}, {maXNGui=9.3 77;  1;1754}, {maXNGui=.3 86; 13;1754}, {maXNGui=8 87;4.4;1754}, {maXNGui=88  7;1.8;1754}, {maXNGui=92  1.;54P;1754}, {maXNGui=93   29;7r ;1754}, {maXNGui=4   4.5;r 9;1754}]
+2021-12-11 14:17:43 Insert db
+2021-12-11 14:17:43 200
+2021-12-11 14:17:43 Tính bằng script 1
+2021-12-11 14:17:45 cx_AU480[M]: [STX]D 000309 0033                1753    E                    76  25.0r 77  34.1r 86  4.91r 87  54.1r 88  5.61r 92  0.55r 93   321r
+
+2021-12-11 14:17:45 cx_AU480[M]: [STX]D 000309 0033                1753    E                    76  25.0r 77  34.1r 86  4.91r 87  54.1r 88  5.61r 92  0.55r 93   321r
+
+2021-12-11 14:17:45 cx_AU480[M]: [STX]D 000309 0033                1753    E                    76  25.0r 77  34.1r 86  4.91r 87  54.1r 88  5.61r 92  0.55r 93   321r
+
+2021-12-11 14:17:45 cx_AU480[M]: [STX]D 000309 0033                1753    E                    76  25.0r 77  34.1r 86  4.91r 87  54.1r 88  5.61r 92  0.55r 93   321r
+
+2021-12-11 14:17:45 cx_AU480[M]:  94   4.4r [ETX]
+
+2021-12-11 14:17:45 cx_AU480[M]:  94   4.4r [ETX]
+
+2021-12-11 14:17:45 cx_AU480[M]:  94   4.4r [ETX]
+
+2021-12-11 14:17:45 cx_AU480[M]:  94   4.4r [ETX]
+
+2021-12-11 14:17:45 getKetQuaMay
+2021-12-11 14:17:45 executeScript
+2021-12-11 14:17:45 data nhận: D 000309 0033                1753    E                    76  25.0r 77  34.1r 86  4.91r 87  54.1r 88  5.61r 92  0.55r 93   321r 94   4.4r 
+2021-12-11 14:17:45 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000309%200033%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201753%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2025.0r%2077%20%2034.1r%2086%20%204.91r%2087%20%2054.1r%2088%20%205.61r%2092%20%200.55r%2093%20%20%20321r%2094%20%20%204.4r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:45 KQ sau khi tính: {"0":{"stt":"1753","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1753","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1753","ma_xn_may":"  2","ketqua":"5.0 77"},"3":{"stt":"1753","ma_xn_may":" 34","ketqua":".1 86"},"4":{"stt":"1753","ma_xn_may":"4.9","ketqua":"1 87"},"5":{"stt":"1753","ma_xn_may":"4.1","ketqua":"88  5"},"6":{"stt":"1753","ma_xn_may":"61r","ketqua":"92  0."},"7":{"stt":"1753","ma_xn_may":"5r ","ketqua":"93   32"},"8":{"stt":"1753","ma_xn_may":"r 9","ketqua":"4   4.4"}}
+2021-12-11 14:17:45 executed data: [{maXNGui=;   ;1753}, {maXNGui=7;   ;1753}, {maXNGui=5.0 77;  2;1753}, {maXNGui=.1 86; 34;1753}, {maXNGui=1 87;4.9;1753}, {maXNGui=88  5;4.1;1753}, {maXNGui=92  0.;61r;1753}, {maXNGui=93   32;5r ;1753}, {maXNGui=4   4.4;r 9;1753}]
+2021-12-11 14:17:45 Insert db
+2021-12-11 14:17:45 200
+2021-12-11 14:17:45 Tính bằng script 1
+2021-12-11 14:17:47 cx_AU480[M]: [STX]D 000310 0034                1752    E                    76  18.8r 77  21.4r 86  5.14r 87  48.2Nr88  5.36r 92  0.71r 93   353r
+
+2021-12-11 14:17:47 cx_AU480[M]: [STX]D 000310 0034                1752    E                    76  18.8r 77  21.4r 86  5.14r 87  48.2Nr88  5.36r 92  0.71r 93   353r
+
+2021-12-11 14:17:47 cx_AU480[M]: [STX]D 000310 0034                1752    E                    76  18.8r 77  21.4r 86  5.14r 87  48.2Nr88  5.36r 92  0.71r 93   353r
+
+2021-12-11 14:17:47 cx_AU480[M]: [STX]D 000310 0034                1752    E                    76  18.8r 77  21.4r 86  5.14r 87  48.2Nr88  5.36r 92  0.71r 93   353r
+
+2021-12-11 14:17:47 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:47 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:47 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:47 cx_AU480[M]:  94   4.5r [ETX]
+
+2021-12-11 14:17:47 getKetQuaMay
+2021-12-11 14:17:47 executeScript
+2021-12-11 14:17:47 data nhận: D 000310 0034                1752    E                    76  18.8r 77  21.4r 86  5.14r 87  48.2Nr88  5.36r 92  0.71r 93   353r 94   4.5r 
+2021-12-11 14:17:47 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000310%200034%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201752%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2018.8r%2077%20%2021.4r%2086%20%205.14r%2087%20%2048.2Nr88%20%205.36r%2092%20%200.71r%2093%20%20%20353r%2094%20%20%204.5r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:47 KQ sau khi tính: {"0":{"stt":"1752","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1752","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1752","ma_xn_may":"  1","ketqua":"8.8 77"},"3":{"stt":"1752","ma_xn_may":" 21","ketqua":".4 86"},"4":{"stt":"1752","ma_xn_may":"5.1","ketqua":"4 87"},"5":{"stt":"1752","ma_xn_may":"8.2","ketqua":"88  5"},"6":{"stt":"1752","ma_xn_may":"36r","ketqua":"92  0."},"7":{"stt":"1752","ma_xn_may":"1r ","ketqua":"93   35"},"8":{"stt":"1752","ma_xn_may":"r 9","ketqua":"4   4.5"}}
+2021-12-11 14:17:47 executed data: [{maXNGui=;   ;1752}, {maXNGui=7;   ;1752}, {maXNGui=8.8 77;  1;1752}, {maXNGui=.4 86; 21;1752}, {maXNGui=4 87;5.1;1752}, {maXNGui=88  5;8.2;1752}, {maXNGui=92  0.;36r;1752}, {maXNGui=93   35;1r ;1752}, {maXNGui=4   4.5;r 9;1752}]
+2021-12-11 14:17:47 Insert db
+2021-12-11 14:17:47 200
+2021-12-11 14:17:48 Tính bằng script 1
+2021-12-11 14:17:49 cx_AU480[M]: [STX]D 000401 0035                1751    E                    76  17.0r 77  10.9r 86  4.77r 87  48.2Nr88  5.26r 92  0.57r 93   274r
+
+2021-12-11 14:17:49 cx_AU480[M]: [STX]D 000401 0035                1751    E                    76  17.0r 77  10.9r 86  4.77r 87  48.2Nr88  5.26r 92  0.57r 93   274r
+
+2021-12-11 14:17:49 cx_AU480[M]: [STX]D 000401 0035                1751    E                    76  17.0r 77  10.9r 86  4.77r 87  48.2Nr88  5.26r 92  0.57r 93   274r
+
+2021-12-11 14:17:49 cx_AU480[M]: [STX]D 000401 0035                1751    E                    76  17.0r 77  10.9r 86  4.77r 87  48.2Nr88  5.26r 92  0.57r 93   274r
+
+2021-12-11 14:17:49 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:49 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:49 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:49 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:49 getKetQuaMay
+2021-12-11 14:17:49 executeScript
+2021-12-11 14:17:49 data nhận: D 000401 0035                1751    E                    76  17.0r 77  10.9r 86  4.77r 87  48.2Nr88  5.26r 92  0.57r 93   274r 94   4.3r 
+2021-12-11 14:17:49 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000401%200035%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201751%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2017.0r%2077%20%2010.9r%2086%20%204.77r%2087%20%2048.2Nr88%20%205.26r%2092%20%200.57r%2093%20%20%20274r%2094%20%20%204.3r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:49 KQ sau khi tính: {"0":{"stt":"1751","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1751","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1751","ma_xn_may":"  1","ketqua":"7.0 77"},"3":{"stt":"1751","ma_xn_may":" 10","ketqua":".9 86"},"4":{"stt":"1751","ma_xn_may":"4.7","ketqua":"7 87"},"5":{"stt":"1751","ma_xn_may":"8.2","ketqua":"88  5"},"6":{"stt":"1751","ma_xn_may":"26r","ketqua":"92  0."},"7":{"stt":"1751","ma_xn_may":"7r ","ketqua":"93   27"},"8":{"stt":"1751","ma_xn_may":"r 9","ketqua":"4   4.3"}}
+2021-12-11 14:17:49 executed data: [{maXNGui=;   ;1751}, {maXNGui=7;   ;1751}, {maXNGui=7.0 77;  1;1751}, {maXNGui=.9 86; 10;1751}, {maXNGui=7 87;4.7;1751}, {maXNGui=88  5;8.2;1751}, {maXNGui=92  0.;26r;1751}, {maXNGui=93   27;7r ;1751}, {maXNGui=4   4.3;r 9;1751}]
+2021-12-11 14:17:49 Insert db
+2021-12-11 14:17:49 200
+2021-12-11 14:17:50 Tính bằng script 1
+2021-12-11 14:17:51 cx_AU480[M]: [STX]D 000402 0036                1750    E                    76  23.3r 77  20.8r 86  4.95r 87  54.1r 88  7.20Pr92  0.99r 93   319r
+
+2021-12-11 14:17:51 cx_AU480[M]: [STX]D 000402 0036                1750    E                    76  23.3r 77  20.8r 86  4.95r 87  54.1r 88  7.20Pr92  0.99r 93   319r
+
+2021-12-11 14:17:51 cx_AU480[M]: [STX]D 000402 0036                1750    E                    76  23.3r 77  20.8r 86  4.95r 87  54.1r 88  7.20Pr92  0.99r 93   319r
+
+2021-12-11 14:17:51 cx_AU480[M]: [STX]D 000402 0036                1750    E                    76  23.3r 77  20.8r 86  4.95r 87  54.1r 88  7.20Pr92  0.99r 93   319r
+
+2021-12-11 14:17:51 cx_AU480[M]:  94   5.1r [ETX]
+
+2021-12-11 14:17:51 cx_AU480[M]:  94   5.1r [ETX]
+
+2021-12-11 14:17:51 cx_AU480[M]:  94   5.1r [ETX]
+
+2021-12-11 14:17:51 cx_AU480[M]:  94   5.1r [ETX]
+
+2021-12-11 14:17:52 getKetQuaMay
+2021-12-11 14:17:52 executeScript
+2021-12-11 14:17:52 data nhận: D 000402 0036                1750    E                    76  23.3r 77  20.8r 86  4.95r 87  54.1r 88  7.20Pr92  0.99r 93   319r 94   5.1r 
+2021-12-11 14:17:52 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000402%200036%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201750%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2023.3r%2077%20%2020.8r%2086%20%204.95r%2087%20%2054.1r%2088%20%207.20Pr92%20%200.99r%2093%20%20%20319r%2094%20%20%205.1r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:52 KQ sau khi tính: {"0":{"stt":"1750","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1750","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1750","ma_xn_may":"  2","ketqua":"3.3 77"},"3":{"stt":"1750","ma_xn_may":" 20","ketqua":".8 86"},"4":{"stt":"1750","ma_xn_may":"4.9","ketqua":"5 87"},"5":{"stt":"1750","ma_xn_may":"4.1","ketqua":"88  7"},"6":{"stt":"1750","ma_xn_may":"20P","ketqua":"92  0."},"7":{"stt":"1750","ma_xn_may":"9r ","ketqua":"93   31"},"8":{"stt":"1750","ma_xn_may":"r 9","ketqua":"4   5.1"}}
+2021-12-11 14:17:52 executed data: [{maXNGui=;   ;1750}, {maXNGui=7;   ;1750}, {maXNGui=3.3 77;  2;1750}, {maXNGui=.8 86; 20;1750}, {maXNGui=5 87;4.9;1750}, {maXNGui=88  7;4.1;1750}, {maXNGui=92  0.;20P;1750}, {maXNGui=93   31;9r ;1750}, {maXNGui=4   5.1;r 9;1750}]
+2021-12-11 14:17:52 Insert db
+2021-12-11 14:17:52 200
+2021-12-11 14:17:52 Tính bằng script 1
+2021-12-11 14:17:53 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:17:53 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:17:53 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:17:53 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:17:54 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:54 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:54 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:54 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:17:54 getKetQuaMay
+2021-12-11 14:17:54 executeScript
+2021-12-11 14:17:54 data nhận: D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r 94   4.3r 
+2021-12-11 14:17:54 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000403%200037%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201749%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2015.5r%2077%20%20%209.8r%2086%20%204.22r%2087%20%2052.9Nr88%20%205.23r%2092%20%200.64r%2093%20%20%20236r%2094%20%20%204.3r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:54 KQ sau khi tính: {"0":{"stt":"1749","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1749","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1749","ma_xn_may":"  1","ketqua":"5.5 77"},"3":{"stt":"1749","ma_xn_may":"  9","ketqua":".8 86"},"4":{"stt":"1749","ma_xn_may":"4.2","ketqua":"2 87"},"5":{"stt":"1749","ma_xn_may":"2.9","ketqua":"88  5"},"6":{"stt":"1749","ma_xn_may":"23r","ketqua":"92  0."},"7":{"stt":"1749","ma_xn_may":"4r ","ketqua":"93   23"},"8":{"stt":"1749","ma_xn_may":"r 9","ketqua":"4   4.3"}}
+2021-12-11 14:17:54 executed data: [{maXNGui=;   ;1749}, {maXNGui=7;   ;1749}, {maXNGui=5.5 77;  1;1749}, {maXNGui=.8 86;  9;1749}, {maXNGui=2 87;4.2;1749}, {maXNGui=88  5;2.9;1749}, {maXNGui=92  0.;23r;1749}, {maXNGui=93   23;4r ;1749}, {maXNGui=4   4.3;r 9;1749}]
+2021-12-11 14:17:54 Insert db
+2021-12-11 14:17:54 200
+2021-12-11 14:17:54 Tính bằng script 1
+2021-12-11 14:17:56 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:17:56 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:17:56 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:17:56 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:17:56 getKetQuaMay
+2021-12-11 14:17:56 executeScript
+2021-12-11 14:17:56 data nhận: DE
+2021-12-11 14:17:56 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02DE%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:17:56 KQ sau khi tính: {}
+2021-12-11 14:17:56 executed data: []
+2021-12-11 14:20:49 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:20:49 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:20:49 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:20:49 cx_AU480[M]: [STX]DB[ETX]
+
+2021-12-11 14:20:49 getKetQuaMay
+2021-12-11 14:20:49 executeScript
+2021-12-11 14:20:49 data nhận: DB
+2021-12-11 14:20:49 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02DB%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:20:49 KQ sau khi tính: {}
+2021-12-11 14:20:49 executed data: []
+2021-12-11 14:20:51 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:20:51 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:20:51 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:20:51 cx_AU480[M]: [STX]D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r
+
+2021-12-11 14:20:51 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:20:51 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:20:51 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:20:51 cx_AU480[M]:  94   4.3r [ETX]
+
+2021-12-11 14:20:52 getKetQuaMay
+2021-12-11 14:20:52 executeScript
+2021-12-11 14:20:52 data nhận: D 000403 0037                1749    E                    76  15.5r 77   9.8r 86  4.22r 87  52.9Nr88  5.23r 92  0.64r 93   236r 94   4.3r 
+2021-12-11 14:20:52 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000403%200037%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201749%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2015.5r%2077%20%20%209.8r%2086%20%204.22r%2087%20%2052.9Nr88%20%205.23r%2092%20%200.64r%2093%20%20%20236r%2094%20%20%204.3r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:20:52 KQ sau khi tính: {"0":{"stt":"1749","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1749","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1749","ma_xn_may":"  1","ketqua":"5.5 77"},"3":{"stt":"1749","ma_xn_may":"  9","ketqua":".8 86"},"4":{"stt":"1749","ma_xn_may":"4.2","ketqua":"2 87"},"5":{"stt":"1749","ma_xn_may":"2.9","ketqua":"88  5"},"6":{"stt":"1749","ma_xn_may":"23r","ketqua":"92  0."},"7":{"stt":"1749","ma_xn_may":"4r ","ketqua":"93   23"},"8":{"stt":"1749","ma_xn_may":"r 9","ketqua":"4   4.3"}}
+2021-12-11 14:20:52 executed data: [{maXNGui=;   ;1749}, {maXNGui=7;   ;1749}, {maXNGui=5.5 77;  1;1749}, {maXNGui=.8 86;  9;1749}, {maXNGui=2 87;4.2;1749}, {maXNGui=88  5;2.9;1749}, {maXNGui=92  0.;23r;1749}, {maXNGui=93   23;4r ;1749}, {maXNGui=4   4.3;r 9;1749}]
+2021-12-11 14:20:52 Insert db
+2021-12-11 14:20:52 200
+2021-12-11 14:20:52 Tính bằng script 1
+2021-12-11 14:20:53 cx_AU480[M]: [STX]D 000404 0038                1748    E                    76  24.3r 77  15.5r 86  3.39r 87  62.6r 88      %?92      %?93      %
+
+2021-12-11 14:20:53 cx_AU480[M]: [STX]D 000404 0038                1748    E                    76  24.3r 77  15.5r 86  3.39r 87  62.6r 88      %?92      %?93      %
+
+2021-12-11 14:20:53 cx_AU480[M]: [STX]D 000404 0038                1748    E                    76  24.3r 77  15.5r 86  3.39r 87  62.6r 88      %?92      %?93      %
+
+2021-12-11 14:20:53 cx_AU480[M]: [STX]D 000404 0038                1748    E                    76  24.3r 77  15.5r 86  3.39r 87  62.6r 88      %?92      %?93      %
+
+2021-12-11 14:20:54 cx_AU480[M]: ?94      %?[ETX]
+
+2021-12-11 14:20:54 cx_AU480[M]: ?94      %?[ETX]
+
+2021-12-11 14:20:54 cx_AU480[M]: ?94      %?[ETX]
+
+2021-12-11 14:20:54 cx_AU480[M]: ?94      %?[ETX]
+
+2021-12-11 14:20:54 getKetQuaMay
+2021-12-11 14:20:54 executeScript
+2021-12-11 14:20:54 data nhận: D 000404 0038                1748    E                    76  24.3r 77  15.5r 86  3.39r 87  62.6r 88      %?92      %?93      %?94      %?
+2021-12-11 14:20:54 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000404%200038%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201748%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2024.3r%2077%20%2015.5r%2086%20%203.39r%2087%20%2062.6r%2088%20%20%20%20%20%20%25%3F92%20%20%20%20%20%20%25%3F93%20%20%20%20%20%20%25%3F94%20%20%20%20%20%20%25%3F%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:20:54 KQ sau khi tính: {"0":{"stt":"1748","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1748","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1748","ma_xn_may":"  2","ketqua":"4.3 77"},"3":{"stt":"1748","ma_xn_may":" 15","ketqua":".5 86"},"4":{"stt":"1748","ma_xn_may":"3.3","ketqua":"9 87"},"5":{"stt":"1748","ma_xn_may":"2.6","ketqua":"88"},"6":{"stt":"1748","ma_xn_may":"  %","ketqua":"?92"},"7":{"stt":"1748","ma_xn_may":" %?","ketqua":"93"},"8":{"stt":"1748","ma_xn_may":"%?9","ketqua":"4"}}
+2021-12-11 14:20:54 executed data: [{maXNGui=;   ;1748}, {maXNGui=7;   ;1748}, {maXNGui=4.3 77;  2;1748}, {maXNGui=.5 86; 15;1748}, {maXNGui=9 87;3.3;1748}, {maXNGui=88;2.6;1748}, {maXNGui=?92;  %;1748}, {maXNGui=93; %?;1748}, {maXNGui=4;%?9;1748}]
+2021-12-11 14:20:54 Insert db
+2021-12-11 14:20:54 200
+2021-12-11 14:20:54 Tính bằng script 1
+2021-12-11 14:20:56 cx_AU480[M]: [STX]D 000405 0039                1747    E                    76  38.4r 77  57.0Pr86  5.23Pr87  89.0r 88  6.73Pr92  4.56Pr93   480P
+
+2021-12-11 14:20:56 cx_AU480[M]: [STX]D 000405 0039                1747    E                    76  38.4r 77  57.0Pr86  5.23Pr87  89.0r 88  6.73Pr92  4.56Pr93   480P
+
+2021-12-11 14:20:56 cx_AU480[M]: [STX]D 000405 0039                1747    E                    76  38.4r 77  57.0Pr86  5.23Pr87  89.0r 88  6.73Pr92  4.56Pr93   480P
+
+2021-12-11 14:20:56 cx_AU480[M]: [STX]D 000405 0039                1747    E                    76  38.4r 77  57.0Pr86  5.23Pr87  89.0r 88  6.73Pr92  4.56Pr93   480P
+
+2021-12-11 14:20:56 cx_AU480[M]: r94   4.6r [ETX]
+
+2021-12-11 14:20:56 cx_AU480[M]: r94   4.6r [ETX]
+
+2021-12-11 14:20:56 cx_AU480[M]: r94   4.6r [ETX]
+
+2021-12-11 14:20:56 cx_AU480[M]: r94   4.6r [ETX]
+
+2021-12-11 14:20:56 getKetQuaMay
+2021-12-11 14:20:56 executeScript
+2021-12-11 14:20:56 data nhận: D 000405 0039                1747    E                    76  38.4r 77  57.0Pr86  5.23Pr87  89.0r 88  6.73Pr92  4.56Pr93   480Pr94   4.6r 
+2021-12-11 14:20:56 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02D%20000405%200039%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201747%20%20%20%20E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2076%20%2038.4r%2077%20%2057.0Pr86%20%205.23Pr87%20%2089.0r%2088%20%206.73Pr92%20%204.56Pr93%20%20%20480Pr94%20%20%204.6r%20%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:20:56 KQ sau khi tính: {"0":{"stt":"1747","ma_xn_may":"   ","ketqua":""},"1":{"stt":"1747","ma_xn_may":"   ","ketqua":"7"},"2":{"stt":"1747","ma_xn_may":"  3","ketqua":"8.4 77"},"3":{"stt":"1747","ma_xn_may":" 57","ketqua":".086"},"4":{"stt":"1747","ma_xn_may":"5.2","ketqua":"387"},"5":{"stt":"1747","ma_xn_may":"9.0","ketqua":"88  6"},"6":{"stt":"1747","ma_xn_may":"73P","ketqua":"92  4."},"7":{"stt":"1747","ma_xn_may":"6Pr","ketqua":"93   48"},"8":{"stt":"1747","ma_xn_may":"Pr9","ketqua":"4   4.6"}}
+2021-12-11 14:20:56 executed data: [{maXNGui=;   ;1747}, {maXNGui=7;   ;1747}, {maXNGui=8.4 77;  3;1747}, {maXNGui=.086; 57;1747}, {maXNGui=387;5.2;1747}, {maXNGui=88  6;9.0;1747}, {maXNGui=92  4.;73P;1747}, {maXNGui=93   48;6Pr;1747}, {maXNGui=4   4.6;Pr9;1747}]
+2021-12-11 14:20:56 Insert db
+2021-12-11 14:20:56 200
+2021-12-11 14:20:56 Tính bằng script 1
+2021-12-11 14:20:58 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:20:58 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:20:58 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:20:58 cx_AU480[M]: [STX]DE[ETX]
+
+2021-12-11 14:20:58 getKetQuaMay
+2021-12-11 14:20:58 executeScript
+2021-12-11 14:20:58 data nhận: DE
+2021-12-11 14:20:58 var JSHANDLER_CRLN_DATA_DECODED = decodeURIComponent('%02DE%03');var JSHANDLER_CRLN_USERDATA_DECODED = decodeURIComponent('');(function (data, userdata) {var Obketquamay = [];
+	var stt ="";
+	var dsketqua = [];
+	var pattern = new RegExp("[a-zA-Z-+$]");
+	var ketqua="";
+	var index_EO = data.indexOf("E");
+	if (data.length > 42)
+      {
+      var temp = data.substring(20, index_EO).trim();
+	  var stt_temp = temp.split(' ');
+	  stt = stt_temp[0].trim();
+      }
+    else return dsketqua;
+	
+	var temp = data.split('E');
+if(temp.length>1)
+ {
+ var dataketqua=temp[1];
+	while (dataketqua.length >= 10) {
+		var data1 = dataketqua.substr(0,10);
+		var obketqua = new Object();
+		obketqua.stt= stt;
+		obketqua.ma_xn_may = data1.substr(0,3);
+		ketqua = data1.substr(3,8).trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		ketqua =ketqua.replace(pattern, '').trim();
+		obketqua.ketqua =ketqua;
+		dsketqua.push(obketqua);
+		dataketqua=dataketqua.substr(11,dataketqua.length -11);
+	}
+	}
+	return dsketqua;})(JSHANDLER_CRLN_DATA_DECODED, JSHANDLER_CRLN_USERDATA_DECODED);
+2021-12-11 14:20:58 KQ sau khi tính: {}
+2021-12-11 14:20:58 executed data: []
