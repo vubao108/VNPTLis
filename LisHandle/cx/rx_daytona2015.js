@@ -136,7 +136,7 @@ var Obketquamay = [];
 var dsketqua   = [];
 var mydata = data;
 
-var ds_chiso = new Map()
+var ds_chiso = new Object()
 ds_chiso['01'] = 'AST'
 ds_chiso['02'] = 'ALT'
 ds_chiso['03'] = 'GLUCPA'

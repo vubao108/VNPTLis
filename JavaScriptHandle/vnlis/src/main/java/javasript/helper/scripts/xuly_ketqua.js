@@ -1,6 +1,3 @@
-data=` 
-D 000601 0048                2348    E                    76  30.7r 77  24.4r 87  62.7r 88  6.00Pr94   2.3Nr`
-
 
 function chuanhoa_barcode(tmp_stt){
     tmp_stt = tmp_stt.replace(/^0+/,''); // remove leading zero
