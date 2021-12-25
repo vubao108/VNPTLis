@@ -12,7 +12,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\xuly_kq.js"
+            "program": "${workspaceFolder}\\cx\\rx_daytona2015.js"
         }
     ]
 }

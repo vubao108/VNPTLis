@@ -1,4 +1,4 @@
-package javasript.helper.Common;
+package com.mycompany.mavenproject3.Common;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import javasript.helper.ScriptFactory;
+import com.mycompany.mavenproject3.ScriptFactory;
 
 public class ProcessData {
 

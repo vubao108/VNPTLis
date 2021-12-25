@@ -1,4 +1,4 @@
-package javasript.helper;
+package com.mycompany.mavenproject3;
 
 
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 import javax.script.ScriptException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import  javasript.helper.Common.ProcessData;
+import com.mycompany.mavenproject3.Common.ProcessData;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -55,11 +55,11 @@ public  class App extends Application{
         
        
          HBox hBox = new HBox();
-         TextArea dataArea = new TextArea();
+         final TextArea dataArea = new TextArea();
          dataArea.setText("nhap data vao day");
          dataArea.setPrefHeight(400);
          dataArea.setWrapText(true);
-         TextArea scriptArea = new TextArea();
+         final TextArea scriptArea = new TextArea();
          scriptArea.setText("return data + '123456';");
          scriptArea.setPrefHeight(400);
          scriptArea.setWrapText(true);
@@ -68,7 +68,7 @@ public  class App extends Application{
 
          VBox vBox = new VBox();
          Button xulyButton  = new Button("Run");
-         TextArea ketquArea = new TextArea("ket qua");
+         final TextArea ketquArea = new TextArea("ket qua");
 
          ketquArea.setWrapText(true);
          xulyButton.setOnAction(new EventHandler<ActionEvent>() {

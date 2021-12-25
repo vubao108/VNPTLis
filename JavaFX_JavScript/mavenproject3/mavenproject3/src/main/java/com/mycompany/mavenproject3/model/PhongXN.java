@@ -1,4 +1,4 @@
-package javasript.helper.model;
+package com.mycompany.mavenproject3.model;
 
 public class PhongXN
 {

@@ -1,0 +1,2 @@
+To build jar
+"f:\Program\apache-maven-3.8.4-bin\apache-maven-3.8.4\bin\mvn.cmd" package  javafx:run

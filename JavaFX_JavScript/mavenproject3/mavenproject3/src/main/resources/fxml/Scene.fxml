@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="514.0" prefWidth="567.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.mavenproject3.FXMLController">
+    <children>
+        <Label fx:id="label" layoutX="126.0" layoutY="142.0" minHeight="16" minWidth="69" />
+      <SplitPane dividerPositions="0.7159763313609467" layoutX="12.0" layoutY="12.0" orientation="VERTICAL" prefHeight="225.0" prefWidth="388.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="12.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <SplitPane dividerPositions="0.48109965635738833" layoutX="-4.0" layoutY="1.0" prefHeight="69.0" prefWidth="293.0" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="-4.0" AnchorPane.rightAnchor="4.0" AnchorPane.topAnchor="4.0">
+                    <items>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="321.0" prefWidth="270.0">
+                           <children>
+                              <TextArea fx:id="dataArea" layoutX="14.0" layoutY="19.0" prefHeight="315.0" prefWidth="252.0" text=" &#10;D 000601 0048                2348    E                    76  30.7r 77  24.4r 87  62.7r 88  6.00Pr94   2.3Nr" wrapText="true" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="19.0" />
+                              <Label layoutX="65.0" layoutY="6.0" prefHeight="17.0" prefWidth="227.0" text="Data nhận" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="0.0" />
+                           </children>
+                        </AnchorPane>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="129.0" prefWidth="263.0">
+                           <children>
+                              <Label layoutX="69.0" layoutY="26.0" text="JavaScript  " AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="0.0" />
+                              <TextArea fx:id="scriptArea" layoutX="30.0" layoutY="31.0" prefHeight="200.0" prefWidth="200.0" text="function chuanhoa_barcode(tmp_stt){&#10;    tmp_stt = tmp_stt.replace(/^0+/,''); // remove leading zero&#10;    var barcode = '0000';&#10;    var stt = barcode.substring(0, barcode.length - tmp_stt.length) + tmp_stt;&#10;    return stt;&#10;}&#10;&#10;&#10;var Obketquamay = [];&#10;var dsketqua   = [];&#10;var mydata =  data.replace(/^\s*[\r\n]/gm, '');&#10;&#10;&#10;&#10;var ds_chiso = new Object();&#10;ds_chiso['76'] = 'GOT-B';&#10;ds_chiso['77'] = 'GPT-B';&#10;ds_chiso['86'] = 'CHOL-B';&#10;ds_chiso['87'] = 'CRE-B';&#10;ds_chiso['88'] = 'GLU-B';&#10;ds_chiso['91'] = 'TP-B';&#10;ds_chiso['92'] = 'TRIG-B';&#10;ds_chiso['93'] = 'URIC-B';&#10;ds_chiso['94'] = 'URE-B';&#10;&#10;&#10;var regex1 = /[\sr]?(\d+)\s+(\d+\.?\d*?)[a-zA-Z]?r/g;&#10;var item_ketqua = null;&#10;var stt_match = mydata.match(/\s+(\d+)\s+E\s+/);&#10;if(stt_match != null){&#10;    stt = chuanhoa_barcode(stt_match[1]);&#10;&#10;    while ((match = regex1.exec(mydata)) !== null) {&#10;        item_ketqua = new Object();&#10;        item_ketqua.stt = stt;&#10;        item_ketqua.ma_xn_may = ds_chiso[match[1]];//ds_chiso[match_ketquas[i][1]];&#10;        item_ketqua.ketqua = match[2];//match_ketquas[i][2];&#10;        dsketqua.push(item_ketqua);&#10;    }&#10;   &#10;}&#10;&#10;&#10;return dsketqua;" wrapText="true" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="19.0" />
+                           </children>
+                        </AnchorPane>
+                    </items>
+                  </SplitPane>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="141.0" prefWidth="509.0">
+               <children>
+                  <Button layoutX="8.0" layoutY="2.0" mnemonicParsing="false" onAction="#handleRunScriptButtonAction" prefHeight="25.0" prefWidth="530.0" text="Run JavaScript" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" fx:id="xulyButton" />
+                  <TextArea fx:id="ketquArea" layoutX="64.0" layoutY="38.0" prefHeight="93.0" prefWidth="162.0" wrapText="true" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="30.0">
+                     <font>
+                        <Font size="14.0" />
+                     </font></TextArea>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+    </children>
+</AnchorPane>
